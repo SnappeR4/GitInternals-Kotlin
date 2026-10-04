@@ -1,0 +1,13 @@
+type: edu
+files:
+  - name: src/gitinternals/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/GitInternalsTest.java
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/110/stages/600/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 04 Oct 2026 10:56:45 UTC"
+record: -1

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":util:test" external.linked.project.path="$MODULE_DIR$/../../../util" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="Git Internals" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet external-system-id="GRADLE" type="kotlin-language" name="Kotlin">
+      <configuration version="5" platform="JVM 23" allPlatforms="JVM [23]" useProjectSettings="false" pureKotlinSourceFolders="$MODULE_DIR$/../../../util/src/main/kotlin;/Users/rahulwaghmare/IdeaProjects/Git Internals/util/src/test/kotlin">
+        <additionalVisibleModuleNames>:util:main</additionalVisibleModuleNames>
+        <compilerSettings />
+        <compilerArguments>
+          <flagArguments>
+            <flagArg name="allowNoSourceFiles" arg="true" />
+            <flagArg name="noReflect" arg="true" />
+            <flagArg name="noStdlib" arg="true" />
+          </flagArguments>
+          <stringArguments>
+            <stringArg name="destination" arg="$MODULE_DIR$/../../../util/build/classes/kotlin/test" />
+            <stringArg name="jvmTarget" arg="23" />
+            <stringArg name="moduleName" arg="util_test" />
+            <stringArg name="apiVersion" arg="2.3" />
+            <stringArg name="languageVersion" arg="2.3" />
+          </stringArguments>
+          <arrayArguments>
+            <arrayArg name="pluginClasspaths">
+              <args>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-jvm/2.3.0/ba43e136497851b3079ebcc4b0f9c462c1410eab/kotlin-scripting-jvm-2.3.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-common/2.3.0/ed166c96b64d63647c7ee106da3a8a1c95596285/kotlin-scripting-common-2.3.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/2.3.0/ebc4eb2b6e6c91b6c844c1e3183920d86f2ef656/kotlin-stdlib-2.3.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/2.3.0/fb89e0ab064ea19d08c6d6bc9f044d16c5487fc4/kotlin-script-runtime-2.3.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar</arg>
+              </args>
+            </arrayArg>
+          </arrayArguments>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output-test url="file://$MODULE_DIR$/../../../util/out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../util/src/test" />
+    <content url="file://$MODULE_DIR$/../../../util/test" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Git_Internals.util.main" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:2.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.hyperskill:hs-test:release-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jgit:org.eclipse.jgit:7.5.0.202512021534-r" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-simple:2.0.17" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: junit:junit:4.13.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.assertj:assertj-swing-junit:3.17.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpclient:4.5.14" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.10.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.javaparser:javaparser-core:3.28.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.googlecode.javaewah:JavaEWAH:1.2.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:2.0.17" level="project" />
+    <orderEntry type="library" name="Gradle: commons-codec:commons-codec:1.20.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.assertj:assertj-swing:3.17.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.easytesting:fest-reflect:1.4.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpcore:4.4.16" level="project" />
+    <orderEntry type="library" name="Gradle: commons-logging:commons-logging:1.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.assertj:assertj-core:3.17.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.easytesting:fest-util:1.2.5" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="Git_Internals.util.main" />
+</module>

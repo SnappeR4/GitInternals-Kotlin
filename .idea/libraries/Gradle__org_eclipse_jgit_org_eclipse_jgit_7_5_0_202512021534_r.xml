@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.eclipse.jgit:org.eclipse.jgit:7.5.0.202512021534-r" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.eclipse.jgit" artifactId="org.eclipse.jgit" version="7.5.0.202512021534-r" baseVersion="7.5.0.202512021534-r" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jgit/org.eclipse.jgit/7.5.0.202512021534-r/55647c66694ace25ee42be42aff619125cd58b29/org.eclipse.jgit-7.5.0.202512021534-r.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jgit/org.eclipse.jgit/7.5.0.202512021534-r/b9c58f0009bce3f3d8067c8ebe8dd3a25531d60d/org.eclipse.jgit-7.5.0.202512021534-r-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

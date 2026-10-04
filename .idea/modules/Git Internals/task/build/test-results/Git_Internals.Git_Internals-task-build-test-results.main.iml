@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Git_Internals-task-build-test-results:main" external.linked.project.path="$MODULE_DIR$/../../../../../../Git Internals/task/build/test-results" external.root.project.path="$MODULE_DIR$/../../../../../.." external.system.id="GRADLE" external.system.module.group="Git Internals" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet external-system-id="GRADLE" type="kotlin-language" name="Kotlin">
+      <configuration version="5" platform="JVM 23" allPlatforms="JVM [23]" useProjectSettings="false" pureKotlinSourceFolders="$MODULE_DIR$/../../../../../../Git Internals/task/build/test-results/src/main/kotlin;/Users/rahulwaghmare/IdeaProjects/Git Internals/Git Internals/task/build/test-results/src/test/kotlin">
+        <compilerSettings />
+        <compilerArguments>
+          <flagArguments>
+            <flagArg name="allowNoSourceFiles" arg="true" />
+            <flagArg name="noReflect" arg="true" />
+            <flagArg name="noStdlib" arg="true" />
+          </flagArguments>
+          <stringArguments>
+            <stringArg name="destination" arg="$MODULE_DIR$/../../../../../../Git Internals/task/build/test-results/build/classes/kotlin/main" />
+            <stringArg name="jvmTarget" arg="23" />
+            <stringArg name="moduleName" arg="Git_Internals-task-build-test-results" />
+            <stringArg name="apiVersion" arg="2.3" />
+            <stringArg name="languageVersion" arg="2.3" />
+          </stringArguments>
+          <arrayArguments>
+            <arrayArg name="pluginClasspaths">
+              <args>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-jvm/2.3.0/ba43e136497851b3079ebcc4b0f9c462c1410eab/kotlin-scripting-jvm-2.3.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-common/2.3.0/ed166c96b64d63647c7ee106da3a8a1c95596285/kotlin-scripting-common-2.3.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/2.3.0/ebc4eb2b6e6c91b6c844c1e3183920d86f2ef656/kotlin-stdlib-2.3.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/2.3.0/fb89e0ab064ea19d08c6d6bc9f044d16c5487fc4/kotlin-script-runtime-2.3.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar</arg>
+              </args>
+            </arrayArg>
+          </arrayArguments>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../../../Git Internals/task/build/test-results/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../../Git Internals/task/build/test-results/src" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:2.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+  </component>
+</module>

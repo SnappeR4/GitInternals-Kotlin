@@ -1,0 +1,224 @@
+hyperskill_project:
+  id: 110
+  ide_files: https://hyperskill.org/api/projects/110/additional-files/additional_files.json
+  is_template_based: false
+  use_ide: true
+update_date: "Thu, 01 Jan 1970 00:00:00 UTC"
+stages:
+  - id: 595
+    step: 9837
+    is_completed: true
+  - id: 596
+    step: 9838
+    is_completed: true
+  - id: 597
+    step: 9839
+    is_completed: true
+  - id: 598
+    step: 9840
+    is_completed: true
+  - id: 599
+    step: 9841
+    is_completed: true
+  - id: 600
+    step: 9842
+    is_completed: true
+  - id: 601
+    step: 9843
+    is_completed: true
+topics:
+  0:
+    - title: IDE
+      theory_id: 10996
+    - title: Introduction to Kotlin
+      theory_id: 4350
+    - title: "Basic literals: numbers, strings and characters"
+      theory_id: 4351
+    - title: Writing first program
+      theory_id: 4362
+    - title: Values and variables
+      theory_id: 4371
+    - title: Constants and val variables
+      theory_id: 17408
+    - title: Data types
+      theory_id: 4388
+    - title: Comments
+      theory_id: 4406
+    - title: Kotlin style guide. Coding conventions
+      theory_id: 4419
+    - title: Naming variables
+      theory_id: 4389
+    - title: Standard output
+      theory_id: 4425
+    - title: Invoking functions
+      theory_id: 4575
+    - title: Standard input with Java Scanner
+      theory_id: 4445
+    - title: String basics
+      theory_id: 12553
+    - title: String templates
+      theory_id: 4547
+    - title: Boolean type and operations. True and false
+      theory_id: 4515
+    - title: Arithmetic operations
+      theory_id: 4472
+    - title: Increment and decrement
+      theory_id: 10776
+    - title: Properties of basic types
+      theory_id: 4455
+    - title: Type conversion
+      theory_id: 4672
+    - title: Reading data with readln
+      theory_id: 11224
+    - title: "When different types meet: type coercion"
+      theory_id: 9506
+    - title: Integers in action
+      theory_id: 4488
+    - title: Comparing numbers. Relational operators
+      theory_id: 4525
+    - title: Declaring functions
+      theory_id: 4580
+    - title: If expression
+      theory_id: 4625
+    - title: Errors in programs
+      theory_id: 11559
+    - title: "Loops: repeat statement"
+      theory_id: 4643
+    - title: While loops
+      theory_id: 4659
+    - title: Objects and their properties
+      theory_id: 11233
+    - title: Structural vs referential equality
+      theory_id: 11236
+    - title: Work with MutableLists
+      theory_id: 14902
+    - title: Functions as objects
+      theory_id: 5991
+    - title: Lambda expressions
+      theory_id: 30148
+    - title: Unicode
+      theory_id: 7899
+    - title: Characters. Char type
+      theory_id: 4680
+    - title: Ranges
+      theory_id: 4633
+    - title: Working with strings
+      theory_id: 12561
+    - title: Introduction to collections
+      theory_id: 10390
+    - title: List
+      theory_id: 10730
+    - title: For loop and ranges
+      theory_id: 4652
+    - title: For loop and lists
+      theory_id: 15022
+    - title: Mutable List
+      theory_id: 11032
+    - title: External information resources
+      theory_id: 6216
+    - title: Files
+      theory_id: 13025
+    - title: Reading files
+      theory_id: 6351
+    - title: Starting with GitHub
+      theory_id: 4802
+    - title: IntelliJ IDEA
+      theory_id: 37202
+    - title: IntelliJ IDEA basics
+      theory_id: 5819
+    - title: Fork and pull request
+      theory_id: 4803
+    - title: Local work
+      theory_id: 4856
+    - title: Exception
+      theory_id: 7243
+    - title: Starting with Git
+      theory_id: 10894
+    - title: Git internal structure
+      theory_id: 11461
+    - title: Local repository
+      theory_id: 10901
+    - title: Working with remote repository
+      theory_id: 12299
+  1:
+    - title: Getting substrings
+      theory_id: 8535
+  2:
+    - title: "Write, compile, and run"
+      theory_id: 3739
+    - title: "Basic terms: JVM, JRE, JDK"
+      theory_id: 3499
+    - title: Operating systems
+      theory_id: 9704
+    - title: Command line overview
+      theory_id: 8977
+    - title: Parameters and options
+      theory_id: 9746
+    - title: Date and time standards
+      theory_id: 19467
+    - title: What is object-oriented programming
+      theory_id: 3614
+    - title: Introduction to Linux
+      theory_id: 9526
+    - title: JAR files
+      theory_id: 4311
+    - title: Build tools
+      theory_id: 4284
+    - title: "Gradle: overview"
+      theory_id: 5075
+    - title: Basic project with Gradle
+      theory_id: 5077
+    - title: Building apps using Gradle
+      theory_id: 7917
+    - title: Gradle build configuration
+      theory_id: 35988
+    - title: "Dependency management: repositories"
+      theory_id: 37189
+    - title: Declaring classes
+      theory_id: 6200
+    - title: When expression
+      theory_id: 4631
+    - title: Functional decomposition
+      theory_id: 12668
+    - title: Default arguments
+      theory_id: 4637
+    - title: Named arguments
+      theory_id: 4640
+    - title: Constructors
+      theory_id: 10740
+    - title: Member functions
+      theory_id: 6364
+    - title: Processing strings
+      theory_id: 9027
+    - title: Hierarchy of exceptions
+      theory_id: 13264
+    - title: Taming exceptions
+      theory_id: 7601
+    - title: Try-catch statement
+      theory_id: 10622
+    - title: The try-catch-finally statement
+      theory_id: 11809
+    - title: Editing the commit
+      theory_id: 10910
+    - title: Kotlinx datetime library
+      theory_id: 19456
+  4:
+    - title: Git branches
+      theory_id: 11189
+  5:
+    - title: Computer algorithms
+      theory_id: 16547
+    - title: Data structures
+      theory_id: 40371
+    - title: Abstract and concrete data structures
+      theory_id: 16927
+    - title: Stack
+      theory_id: 5252
+    - title: Call stack
+      theory_id: 11550
+    - title: Scopes
+      theory_id: 17116
+    - title: Recursion basics
+      theory_id: 5984
+    - title: Recursion
+      theory_id: 13601
